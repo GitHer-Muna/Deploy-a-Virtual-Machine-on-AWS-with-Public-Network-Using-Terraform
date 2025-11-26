@@ -420,8 +420,7 @@ MIT License - Feel free to use and modify for your projects.
 
 ## Author
 
-**Muna**  
-DevOps Engineer  
+**Muna Bhattarai**  
 GitHub: [@GitHer-Muna](https://github.com/GitHer-Muna)
 
 ## Acknowledgments
